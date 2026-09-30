@@ -1,23 +1,4 @@
-<!-- ====================================================== -->
-<!--                     HERO SECTION                       -->
-<!-- ====================================================== -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:4C1D95&height=220&section=header&text=Priyansh%20Nolkha&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20Data%20Analytics%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<br>
-
-<p align="center">
-  <img src="./profile.jpeg" alt="Priyansh Nolkha" width="180" />
-</p>
-
-<p align="center">
-  <b>Priyansh Nolkha</b><br/>
-  Data Science & Data Analytics
-</p>
-
-</div>
 
 ---
 
