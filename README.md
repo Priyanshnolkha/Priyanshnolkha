@@ -19,6 +19,8 @@
 
 </div>
 
+---
+
 <!-- ====================================================== -->
 <!--                     ABOUT ME                           -->
 <!-- ====================================================== -->
@@ -62,6 +64,7 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 
 <table>
 <tr>
+
 <td width="65%" valign="top">
 
 <h3>🚀 What I Work With</h3>
@@ -86,15 +89,20 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 
 <p>🎓 <strong>Education</strong><br>MCA – Data Science</p>
 <hr>
+
 <p>🐍 <strong>Primary Language</strong><br>Python</p>
 <hr>
+
 <p>📊 <strong>Data</strong><br>Analytics & Visualization</p>
 <hr>
+
 <p>🤖 <strong>AI</strong><br>Machine Learning</p>
 <hr>
+
 <p>📈 <strong>BI</strong><br>Power BI & DAX</p>
 
 </td>
+
 </tr>
 </table>
 
@@ -104,54 +112,89 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 <tr>
 
 <td width="20%" valign="top" align="center">
+
 <h3>💻 Programming</h3>
+
 <img src="https://skillicons.dev/icons?i=python,java" />
+
 <br><br>
+
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </td>
 
 <td width="25%" valign="top" align="center">
+
 <h3>🤖 Machine Learning & AI</h3>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square"/>
+
 </td>
 
 <td width="20%" valign="top" align="center">
+
 <h3>📊 Data Science</h3>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+
 </td>
 
 <td width="20%" valign="top" align="center">
+
 <h3>🗄️ Databases</h3>
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 </td>
 
 <td width="20%" valign="top" align="center">
+
 <h3>📈 BI & Tools</h3>
+
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=flat-square"/>
 <img src="https://img.shields.io/badge/DAX-6C3BFF?style=flat-square"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
 <br><br>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+
 </td>
 
 </tr>
@@ -390,24 +433,33 @@ A collection of practical analytics and Business Intelligence projects developed
 <tr>
 
 <td align="center" width="33%">
+
 <h3>📊 Advanced Data Analytics</h3>
+
 EDA<br>
 Statistics<br>
 Data Visualization
+
 </td>
 
 <td align="center" width="33%">
+
 <h3>📈 Advanced Power BI</h3>
+
 DAX<br>
 Power Query<br>
 Data Modeling
+
 </td>
 
 <td align="center" width="33%">
+
 <h3>🗄️ SQL</h3>
+
 SQL Queries<br>
 Joins<br>
 Data Analysis
+
 </td>
 
 </tr>
@@ -415,24 +467,33 @@ Data Analysis
 <tr>
 
 <td align="center" width="33%">
+
 <h3>🤖 Machine Learning</h3>
+
 Classification<br>
 Regression<br>
 Clustering
+
 </td>
 
 <td align="center" width="33%">
+
 <h3>🧠 NLP</h3>
+
 TF-IDF<br>
 Text Processing<br>
 Recommendation Systems
+
 </td>
 
 <td align="center" width="33%">
+
 <h3>☁️ SAP + Power BI</h3>
+
 OData APIs<br>
 SAP S/4HANA<br>
 Business Intelligence
+
 </td>
 
 </tr>
