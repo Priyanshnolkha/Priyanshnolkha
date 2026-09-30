@@ -8,9 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img src="./profile.jpeg" alt="Priyansh Nolkha" width="180" />
-</p>
 
 <h1>👋 Hi, I'm <strong>Priyansh Nolkha</strong></h1>
 
