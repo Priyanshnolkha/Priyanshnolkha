@@ -8,12 +8,9 @@
 
 <br>
 
-
----
-
-<!-- ====================================================== -->
-<!--                     ABOUT ME                           -->
-<!-- ====================================================== -->
+<p align="center">
+  <img src="./profile.jpeg" alt="Priyansh Nolkha" width="180" />
+</p>
 
 <h1>👋 Hi, I'm <strong>Priyansh Nolkha</strong></h1>
 
@@ -41,6 +38,12 @@
 <img src="https://komarev.com/ghpvc/?username=Priyanshnolkha&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
 
 </div>
+
+---
+
+<!-- ====================================================== -->
+<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
 
 <h2>👨‍💻 About Me</h2>
 
@@ -95,6 +98,8 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 
 </tr>
 </table>
+
+---
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -151,7 +156,7 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 
 </td>
 
-<td width="20%" valign="top" align="center">
+<td width="15%" valign="top" align="center">
 
 <h3>🗄️ Databases</h3>
 
@@ -189,6 +194,8 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 
 </tr>
 </table>
+
+---
 
 <h2>🚀 Featured Projects</h2>
 
@@ -363,6 +370,8 @@ A collection of practical analytics and Business Intelligence projects developed
 </tr>
 </table>
 
+---
+
 <h2>📊 Power BI Skills</h2>
 
 <table>
@@ -401,6 +410,8 @@ A collection of practical analytics and Business Intelligence projects developed
 </tr>
 </table>
 
+---
+
 <h2>📊 GitHub Activity</h2>
 
 <div align="center">
@@ -416,6 +427,8 @@ A collection of practical analytics and Business Intelligence projects developed
 <img src="https://github-readme-stats.vercel.app/api?username=Priyanshnolkha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
+
+---
 
 <h2>🧠 Currently Learning</h2>
 
@@ -489,6 +502,8 @@ Business Intelligence
 </tr>
 </table>
 
+---
+
 <h2>💼 Career Focus</h2>
 
 <div align="center">
@@ -509,6 +524,8 @@ Business Intelligence
 I'm interested in opportunities where I can apply my skills in
 <strong>Data Analytics, Power BI, SQL, Python, Machine Learning and Business Intelligence.</strong>
 </p>
+
+---
 
 <h2>📫 Connect With Me</h2>
 
