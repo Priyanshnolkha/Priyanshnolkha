@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./profile.jpg" alt="Priyansh Nolkha" width="180" />
+</p>
+
+<p align="center">
+  <b>Priyansh Nolkha</b><br/>
+  Data Science & Data Analytics
+</p>
+
 <!-- ====================================================== -->
 
 <!--                     HERO SECTION                       -->
