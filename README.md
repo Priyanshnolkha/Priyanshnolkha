@@ -42,8 +42,13 @@
 ---
 
 <!-- ====================================================== -->
-<!--                     ABOUT ME                           -->
+<!--                      ABOUT ME                          -->
 <!-- ====================================================== -->
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 <h2>👨‍💻 About Me</h2>
 
@@ -54,11 +59,6 @@ I'm currently pursuing an <strong>MCA in Data Science</strong> and building my s
 <p>
 I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Learning and NLP.</strong>
 </p>
-
-<table>
-<tr>
-
-<td width="65%" valign="top">
 
 <h3>🚀 What I Work With</h3>
 
@@ -78,21 +78,37 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 
 <td width="35%" valign="top">
 
-<h3>⚡ Quick Facts</h3>
+<h2>⚡ Quick Facts</h2>
 
-<p>🎓 <strong>Education</strong><br>MCA – Data Science</p>
+<p>🎓 <strong>Education</strong></p>
+
+<p>
+MCA – Data Science
+</p>
+
 <hr>
 
-<p>🐍 <strong>Primary Language</strong><br>Python</p>
+<p>🐍 <strong>Primary Language</strong></p>
+
+<p>Python</p>
+
 <hr>
 
-<p>📊 <strong>Data</strong><br>Analytics & Visualization</p>
+<p>📊 <strong>Data</strong></p>
+
+<p>Analytics & Visualization</p>
+
 <hr>
 
-<p>🤖 <strong>AI</strong><br>Machine Learning</p>
+<p>🤖 <strong>AI</strong></p>
+
+<p>Machine Learning</p>
+
 <hr>
 
-<p>📈 <strong>BI</strong><br>Power BI & DAX</p>
+<p>📈 <strong>BI</strong></p>
+
+<p>Power BI & DAX</p>
 
 </td>
 
@@ -100,6 +116,10 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!--                    TECH STACK                          -->
+<!-- ====================================================== -->
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -196,6 +216,10 @@ I enjoy working with <strong>Python, SQL, Power BI, DAX, Power Query, Machine Le
 </table>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
 
 <h2>🚀 Featured Projects</h2>
 
@@ -372,6 +396,10 @@ A collection of practical analytics and Business Intelligence projects developed
 
 ---
 
+<!-- ====================================================== -->
+<!--                   POWER BI SKILLS                      -->
+<!-- ====================================================== -->
+
 <h2>📊 Power BI Skills</h2>
 
 <table>
@@ -412,6 +440,10 @@ A collection of practical analytics and Business Intelligence projects developed
 
 ---
 
+<!-- ====================================================== -->
+<!--                   GITHUB ACTIVITY                      -->
+<!-- ====================================================== -->
+
 <h2>📊 GitHub Activity</h2>
 
 <div align="center">
@@ -429,6 +461,10 @@ A collection of practical analytics and Business Intelligence projects developed
 </div>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  CURRENTLY LEARNING                    -->
+<!-- ====================================================== -->
 
 <h2>🧠 Currently Learning</h2>
 
@@ -504,6 +540,10 @@ Business Intelligence
 
 ---
 
+<!-- ====================================================== -->
+<!--                     CAREER FOCUS                       -->
+<!-- ====================================================== -->
+
 <h2>💼 Career Focus</h2>
 
 <div align="center">
@@ -516,16 +556,20 @@ Business Intelligence
 
 <img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</div>
+<br><br>
 
-<br>
-
-<p align="center">
+<p>
 I'm interested in opportunities where I can apply my skills in
 <strong>Data Analytics, Power BI, SQL, Python, Machine Learning and Business Intelligence.</strong>
 </p>
 
+</div>
+
 ---
+
+<!-- ====================================================== -->
+<!--                      CONNECT                           -->
+<!-- ====================================================== -->
 
 <h2>📫 Connect With Me</h2>
 
@@ -543,12 +587,18 @@ I'm interested in opportunities where I can apply my skills in
 
 <br>
 
+<!-- ====================================================== -->
+<!--                       FOOTER                           -->
+<!-- ====================================================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:172554,100:0F172A&height=120&section=footer" width="100%"/>
 
 <h3>⭐ Thanks for visiting my profile!</h3>
 
-<p><strong>Let's connect, build, and learn together. 🚀</strong></p>
+<p>
+<strong>Let's connect, build, and learn together. 🚀</strong>
+</p>
 
 </div>
