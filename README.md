@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img src="./profile.jpg" alt="Priyansh Nolkha" width="180" />
+  <img src="./profile.jpeg" alt="Priyansh Nolkha" width="180" />
 </p>
 
 <p align="center">
