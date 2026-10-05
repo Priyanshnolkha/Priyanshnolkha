@@ -236,7 +236,7 @@ Interactive <strong>Power BI dashboard</strong> for analyzing grocery sales, pro
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/DAX-6C3BFF?style=flat-square"/>
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=flat-square"/>
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <br><br>
 
 <a href="https://github.com/Priyanshnolkha/Data-Analytics-For-Business-Projects/tree/main/Final_Project_Blinkit_Grocery_Dashboard">
